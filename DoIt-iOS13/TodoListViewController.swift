@@ -10,7 +10,7 @@ import UIKit
 
 class TodoListViewController: UITableViewController {
     
-    var itemArray = ["Find Mike", "Buy Eggs", "Destroy Demogorgon"]
+    var itemArray = ["Call Mum", "Buy Milk", "Destroy Thanos"]
     
     var defaults = UserDefaults.standard
 
