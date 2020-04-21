@@ -7,10 +7,11 @@
 The DoIt app is a practice app that gives the user an option to add items to the list, check/uncheck them and remove them from the list. Focus was on learning local data persistance and user defaults.
 
 ![](header.png)
-![](https://github.com/EnejL/Readme-images/blob/master/Climate-iOS13/Simulator%20Screen%20Shot%20-%20iPhone%2011%20Pro%20-%202020-04-19%20at%2021.49.19.png)
-![](https://github.com/EnejL/Readme-images/blob/master/Climate-iOS13/Simulator%20Screen%20Shot%20-%20iPhone%2011%20Pro%20-%202020-04-19%20at%2021.49.47.png)
-![](https://github.com/EnejL/Readme-images/blob/master/Climate-iOS13/Simulator%20Screen%20Shot%20-%20iPhone%2011%20Pro%20-%202020-04-19%20at%2021.49.56.png)
-![](https://github.com/EnejL/Readme-images/blob/master/Climate-iOS13/Simulator%20Screen%20Shot%20-%20iPhone%2011%20Pro%20-%202020-04-19%20at%2021.50.01.png)
+![](https://github.com/EnejL/Readme-images/blob/master/DoIt-iOS13/Simulator%20Screen%20Shot%20-%20iPhone%2011%20Pro%20-%202020-04-21%20at%2021.57.38.png)&nbsp;&nbsp;
+![](https://github.com/EnejL/Readme-images/blob/master/DoIt-iOS13/Simulator%20Screen%20Shot%20-%20iPhone%2011%20Pro%20-%202020-04-21%20at%2021.57.47.png)&nbsp;&nbsp;
+![](https://github.com/EnejL/Readme-images/blob/master/DoIt-iOS13/Simulator%20Screen%20Shot%20-%20iPhone%2011%20Pro%20-%202020-04-21%20at%2021.57.56.png)&nbsp;&nbsp;
+![](https://github.com/EnejL/Readme-images/blob/master/DoIt-iOS13/Simulator%20Screen%20Shot%20-%20iPhone%2011%20Pro%20-%202020-04-21%20at%2021.57.59.png)&nbsp;&nbsp;
+![](https://github.com/EnejL/Readme-images/blob/master/DoIt-iOS13/Simulator%20Screen%20Shot%20-%20iPhone%2011%20Pro%20-%202020-04-21%20at%2021.58.06.png)
 
 ## Features
 
